@@ -1,9 +1,0 @@
-# ROS2 Workspace Verzeichnisse
-build/
-install/
-log/
-
-# Optional, aber empfehlenswert für Python/ROS2
-__pycache__/
-*.pyc
-*.swp
